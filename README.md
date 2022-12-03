@@ -7,3 +7,7 @@ A freelancing site made during my internship period
 
 Variety freelancing opportunities, rating system, company register, user friendly ui.
 
+## Tech stack
+
+wp custom theme, php, tailwind, js, mysql, ajax.
+
