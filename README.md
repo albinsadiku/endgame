@@ -9,5 +9,5 @@ Variety freelancing opportunities, rating system, company register, user friendl
 
 ## Tech stack
 
-wp custom theme, php, tailwind, js, mysql, ajax.
+wp custom theme, acf, php, tailwind, js, mysql, ajax.
 
