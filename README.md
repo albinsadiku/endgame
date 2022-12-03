@@ -5,7 +5,7 @@ A freelancing site made during my internship period
 
 ## Features
 
-Variety freelancing opportunities, rating system, company register, user friendly ui.
+Variety freelancing opportunities, rating system, company register, user friendly ui, multi-role.
 
 ## Tech stack
 
